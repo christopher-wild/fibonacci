@@ -1,0 +1,9 @@
+[build-systems]
+requires = ["setuptools"]
+
+[project]
+name = "fibonacci"
+version = "0.1.0"
+description = "a description"
+dependencies = ["pandas", "numpy"]
+
