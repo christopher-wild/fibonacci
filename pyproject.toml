@@ -1,5 +1,5 @@
 [build-systems]
-requires = ["setuptools"]
+requires = ["setuptools", "setuptools-scm"]
 
 [project]
 name = "fibonacci_friday_afternoon"
