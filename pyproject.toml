@@ -2,7 +2,7 @@
 requires = ["setuptools"]
 
 [project]
-name = "fibonacci"
+name = "fibonacci_friday_afternoon"
 version = "0.1.0"
 description = "a description"
 dependencies = ["pandas", "numpy"]
