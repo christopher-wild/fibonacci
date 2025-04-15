@@ -1,5 +1,6 @@
 [build-systems]
 requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "fibonacci_friday_afternoon"
