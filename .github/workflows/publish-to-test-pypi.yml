@@ -27,7 +27,7 @@ jobs:
         build
         --user
     - name: Install build dependencies
-      run: python3 -m pip install build setuptools setuptools-scm[toml]
+      run: python3 -m pip install build setuptools setuptools_scm
     - name: Build a binary wheel and a source tarball
       run: python3 -m build
     - name: Store the distribution packages
