@@ -1,8 +1,7 @@
 [build-system]
 requires = [
-    "setuptools>=64",
-    "setuptools_scm[toml]>=6.2",
-    "wheel"
+    "setuptools",
+    "setuptools_scm"
 ]
 build-backend = "setuptools.build_meta"
 
@@ -11,7 +10,3 @@ name = "fibonacci_friday_afternoon"
 description = "a description"
 dependencies = ["pandas", "numpy"]
 dynamic = ["version"]
-
-[tool.setuptools_scm]
-version_scheme = "post-release"
-local_scheme = "no-local-version"
