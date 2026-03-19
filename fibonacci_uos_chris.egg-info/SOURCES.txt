@@ -1,6 +1,8 @@
 README.md
 fibonacci_test.py
 pyproject.toml
+dist/fibonacci_uos_chris-0.1.2-py3-none-any.whl
+dist/fibonacci_uos_chris-0.1.2.tar.gz
 fibonacci_uos_chris.egg-info/PKG-INFO
 fibonacci_uos_chris.egg-info/SOURCES.txt
 fibonacci_uos_chris.egg-info/dependency_links.txt

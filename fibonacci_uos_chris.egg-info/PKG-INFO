@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: fibonacci_uos_chris
-Version: 0.1.2
+Version: 0.1.4.dev0+ga3aad575c.d20260319
 Summary: A package to calculate the fibonacci sequence
 License-Expression: MIT
 Description-Content-Type: text/markdown
