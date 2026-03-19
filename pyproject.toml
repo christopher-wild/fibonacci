@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+
+
+[project]
+name = "fibonacci"
+version = "0.1.0"
+description = "A package to calculate the fibonacci sequence"
+readme = "README.md"
+
+[tool.setuptools_scm]
