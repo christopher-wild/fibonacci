@@ -6,7 +6,7 @@ def fibonacci(n_terms):
 
     while count < n_terms:
         print(num1)
-        count += 1
+        count += 1 # adds 1
         num1, num2 = num2, next_num
         next_num = num1 + num2
         
